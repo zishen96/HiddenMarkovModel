@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(74,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(76,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(177,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(178,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\Z\Desktop\Repository\Visual Studio\CIS 575\P2\ConsoleApplication1\Debug\ConsoleApplication1.exe
